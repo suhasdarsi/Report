@@ -1,0 +1,324 @@
+[
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.1 Data Collection",
+    "Question": "Does your AI system collect personal data?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.1 Data Collection",
+    "Question": "Is there a clear data minimization policy in place to limit data collection to what is strictly necessary?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.1 Data Collection",
+    "Question": "Is user consent obtained for data collection, with clear explanations of how data will be used?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.2 Data Sharing",
+    "Question": "Is data shared with third parties? If yes, are there specific categories of data shared?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.2 Data Sharing",
+    "Question": "Are there data sharing agreements in place to protect data privacy, including provisions for data anonymization or pseudonymization?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.3 Data Security",
+    "Question": "Are robust data security measures implemented (e.g., encryption, access controls, firewalls)?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.3 Data Security",
+    "Question": "Is there a data breach response plan in place to mitigate the impact of potential breaches?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.4 Data Retention",
+    "Question": "Is there a clear data retention policy that specifies data storage duration and deletion procedures?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "1. Data Privacy and Security Risks",
+    "Sub Category": "1.4 Data Retention",
+    "Question": "Does the data retention period align with the stated purpose of data collection and comply with relevant regulations?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.1 Bias Assessment",
+    "Question": "Has your AI system undergone a rigorous bias assessment to identify potential biases in data and algorithms?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.1 Bias Assessment",
+    "Question": "Are there measures in place to mitigate bias, such as using diverse datasets and counterfactual testing?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.2 Discrimination",
+    "Question": "Does your AI system have the potential to discriminate based on protected characteristics (race, gender, age, etc.)?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.2 Discrimination",
+    "Question": "Are there mechanisms in place to monitor for discriminatory outcomes and take corrective action?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.3 Transparency and Explainability",
+    "Question": "Can users understand the factors influencing the AI system's decisions?",
+    "Risk Level": "Low",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "2. Algorithmic Bias and Discrimination Risks",
+    "Sub Category": "2.3 Transparency and Explainability",
+    "Question": "Are there mechanisms in place to explain the AI system's decision-making process to users upon request?",
+    "Risk Level": "Low",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.1 System Reliability",
+    "Question": "Does your AI system have fail-safe mechanisms to prevent errors or unintended consequences?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.1 System Reliability",
+    "Question": "Is there a process for regular system testing and updates to ensure reliability and performance?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.2 Public Safety",
+    "Question": "Could your AI system pose a risk to public safety if it malfunctions or is misused?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.2 Public Safety",
+    "Question": "Are there safeguards in place to prevent accidents or injuries?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.3 Liability",
+    "Question": "Does your organization have liability insurance to cover potential damages caused by the AI system?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "3. Safety and Reliability Risks",
+    "Sub Category": "3.3 Liability",
+    "Question": "Are there clear procedures for handling liability claims related to the AI system?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "4. Job Displacement and Economic Impacts",
+    "Sub Category": "4.1 Job Loss",
+    "Question": "Could your AI system lead to job displacement or changes in the workforce?",
+    "Risk Level": "Medium",
+    "Expected": "No"
+  },
+  {
+    "Category": "4. Job Displacement and Economic Impacts",
+    "Sub Category": "4.1 Job Loss",
+    "Question": "Are there plans for retraining or upskilling employees impacted by the AI system?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "4. Job Displacement and Economic Impacts",
+    "Sub Category": "4.2 Economic Impact",
+    "Question": "Could your AI system have unintended negative economic consequences on specific industries or regions?",
+    "Risk Level": "Medium",
+    "Expected": "No"
+  },
+  {
+    "Category": "4. Job Displacement and Economic Impacts",
+    "Sub Category": "4.2 Economic Impact",
+    "Question": "Has a potential economic impact assessment been conducted?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.1 Privacy Invasion",
+    "Question": "Could your AI system invade individuals' privacy by collecting or processing sensitive data without explicit consent?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.1 Privacy Invasion",
+    "Question": "Are there safeguards in place to protect user privacy and prevent unauthorized data access?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.2 Misuse Potential",
+    "Question": "Could your AI system be misused for malicious purposes (e.g., deepfakes, autonomous weapons)?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.2 Misuse Potential",
+    "Question": "Are there access controls and monitoring systems in place to prevent misuse?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.3 Transparency and Accountability",
+    "Question": "Is there transparency about the AI system's capabilities, limitations, and decision-making processes?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "5. Ethical Considerations",
+    "Sub Category": "5.3 Transparency and Accountability",
+    "Question": "Is there a clear accountability framework for AI-related decisions, including assigning responsibility for potential harms?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "6. Environmental Impact",
+    "Sub Category": "6.1 Energy Consumption",
+    "Question": "Does your AI system have a significant energy consumption footprint?",
+    "Risk Level": "Low",
+    "Expected": "No"
+  },
+  {
+    "Category": "6. Environmental Impact",
+    "Sub Category": "6.1 Energy Consumption",
+    "Question": "Are there efforts to optimize energy efficiency in the AI system?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "6. Environmental Impact",
+    "Sub Category": "6.2 Resource Depletion",
+    "Question": "Could the development or operation of your AI system contribute to resource depletion (e.g., rare earth metals)?",
+    "Risk Level": "Low",
+    "Expected": "No"
+  },
+  {
+    "Category": "6. Environmental Impact",
+    "Sub Category": "6.2 Resource Depletion",
+    "Question": "Are there strategies in place to minimize resource consumption?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.1 Regulatory Compliance",
+    "Question": "Does the AI system comply with all applicable laws and regulations (e.g., GDPR, CCPA, etc.)?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.1 Regulatory Compliance",
+    "Question": "Are there specific industry regulations that apply to the AI system?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.2 Intellectual Property",
+    "Question": "Does the AI system infringe on any existing intellectual property rights?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.2 Intellectual Property",
+    "Question": "Are there clear ownership rights for the AI model and its outputs?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.3 Consumer Protection",
+    "Question": "Does the AI system comply with consumer protection laws and regulations?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.3 Consumer Protection",
+    "Question": "Are there clear terms of service and privacy policies in place?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.4 Liability and Insurance",
+    "Question": "Does the organization have adequate liability insurance coverage for AI-related risks?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "7. Legal and Compliance Risks",
+    "Sub Category": "7.4 Liability and Insurance",
+    "Question": "Are there contingency plans in place to address potential legal challenges?",
+    "Risk Level": "Medium",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "8. Additional Considerations",
+    "Sub Category": "8.1 Internal Policy Compliance",
+    "Question": "Does your AI system comply with all relevant internal policies and guidelines?",
+    "Risk Level": "High",
+    "Expected": "Yes"
+  },
+  {
+    "Category": "8. Additional Considerations",
+    "Sub Category": "8.2 Confabulation Risks",
+    "Question": "Could the AI system generate misleading or false information?",
+    "Risk Level": "High",
+    "Expected": "No"
+  },
+  {
+    "Category": "8. Additional Considerations",
+    "Sub Category": "8.3 Societal Impact",
+    "Question": "Could the AI system have unintended negative consequences on society or specific groups?",
+    "Risk Level": "High",
+    "Expected": "No"
+  }
+]
